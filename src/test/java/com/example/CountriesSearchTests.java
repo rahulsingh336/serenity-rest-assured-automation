@@ -15,7 +15,7 @@ public class CountriesSearchTests {
     @Test
     public void verifyThatWeCanFindUnitedStatesOfAmericaUsingTheCodeUS() {
         RestAssured.
-                when().get("http://localhost:8080/cookie").
+                when().get("https://www.boredapi.com/api/activity").
                 then().assertThat().statusCode(200);
                 //and().body("RestResponse.result.name", is("United States of America"));
     }

@@ -1,3 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Countries search tests","Verify that we can find united states of america using the code US","ERROR","20:55:25","0.0","6.78"
-"Countries search tests","Verify that we can find united states of america country using the code US","ERROR","20:55:32","0.0","6.24"
